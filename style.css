@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(243, 235, 219);
+
+
+
+
+}
+
+.Header{
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline rebeccapurple dotted;
+
+
+}
+.MainText{
+    text-align: center;
+    font-size: 20px;
+}
+.Rectangle{
+    
+    position: absolute;
+    width: 600px;
+    height: 110px;
+    background-color: rgba(0, 128, 128, 0.288);
+    right: 34.5%;
+    top:  7% ;
+    border-radius: 90px;
+
+
+}
+.Rectangle2{
+    
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    background-color: rgba(221, 139, 32, 0.733);
+    right: 70%;
+    top:  30% ;
+    
+
+
+}
+.Rectangle3{
+    
+    position: absolute;
+    width: 210px;
+    height: 110px;
+    background-color: rgba(80, 156, 73, 0.733);
+    right: 50%;
+    top:  38% ;
+    
+
+
+}
+.Rectangle4{
+    
+    position: absolute;
+    width: 210px;
+    height: 310px;
+    background-color: rgba(171, 101, 173, 0.733);
+    right: 20%;
+    top:  38% ;
+}
+.Rectangle5{
+    border-radius: 20px;
+    position: absolute;
+    width: 70px;
+    height: 310px;
+    background-color: rgba(72, 53, 141, 0.733);
+    right: 80%;
+    top:  58% ;
+}
+.Rectangle6{
+    border-radius: 90px;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: rgba(28, 187, 174, 0.733);
+    right: 60%;
+    top:  68% ;
+}
+.Rectangle7{
+    border-radius: 50px;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(204, 52, 90, 0.733);
+    right: 85%;
+    top:  24% ;
+}
+.Rectangle8{
+    border-radius: 30px;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(52, 181, 204, 0.733);
+    right: 35%;
+    top:  74% ;
+}
+.Rectangle9{
+    position:absolute;
+    width: 0;
+    height: 0;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-bottom: 100px solid rgb(125, 173, 48);
+    
+
+    right: 15%;
+    top:  14% ;
+}
